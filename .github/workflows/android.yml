@@ -1,0 +1,7 @@
+cd /storage/emulated/0/Download/find-5-lock
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/find-5-lock.git
+git push -u origin main
